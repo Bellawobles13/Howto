@@ -1,16 +1,21 @@
-  h1{color:#004d4d;font-family:'Raleway',sans-serif;font-weight:'600';}
+h1{color:#004d4d;font-family:'Raleway',sans-serif;font-weight:'600';}
       h2{color:#006666;font-family:'Comfortaa', cursive;}
       h3{color:#007666;font-family:'Comfortaa', cursive;}
       p{font-family:arvo, serif;}
       ul{list-style-type:square; font-family:arvo, serif;}
       ol{font-family:arvo, serif;}
-      .blackwhite {
+       body {
+        font-family: 'Rye', cursive;
+font-family: 'Germania One', cursive;
+      }
+      
+    .blackwhite {
         background-color: white;
         color: black;
         padding: 10px;
         margin: 0 0 0 0;
       }
-      .outer-box {
+   .outer-box {
         background-color:lightgrey;
         margin:10px;
         padding:10px;
@@ -39,4 +44,6 @@
       } 
       #ad {
         margin: auto;
+        float:right;
       }
+     
