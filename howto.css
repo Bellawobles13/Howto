@@ -1,20 +1,10 @@
-h1{color:#004d4d;font-family:'Raleway',sans-serif;font-weight:'600';}
+h1{color:#004d4d;font-family:'Raleway',sans-serif;font-weight:600;}
       h2{color:#006666;font-family:'Comfortaa', cursive;}
       h3{color:#007666;font-family:'Comfortaa', cursive;}
-      p{font-family:arvo, serif;}
-      ul{list-style-type:square; font-family:arvo, serif;}
-      ol{font-family:arvo, serif;}
-       body {
-        font-family: 'Rye', cursive;
-font-family: 'Germania One', cursive;
-      }
-      
-    .blackwhite {
-        background-color: white;
-        color: black;
-        padding: 10px;
-        margin: 0 0 0 0;
-      }
+      p{font-family:"arvo", serif;}
+      ul{list-style-type:square; font-family:"arvo", serif;}
+      ol{font-family:"arvo", serif;}
+
    .outer-box {
         background-color:lightgrey;
         margin:10px;
@@ -39,11 +29,12 @@ font-family: 'Germania One', cursive;
         padding-right:20px;
         padding-bottom:20px;
       }
-      img {
+img {
         display:block;
       } 
       #ad {
         margin: auto;
         float:right;
+        height:175px;
       }
      
